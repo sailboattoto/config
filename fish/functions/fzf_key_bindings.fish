@@ -1,0 +1,1 @@
+/home/sailboat/.fzf/shell/key-bindings.fish
